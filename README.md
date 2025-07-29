@@ -28,7 +28,3 @@ File Structure
     -Style.css 
     -favicon.ico (.png) 
     
-Contact 
-  -Made by @BoxToc 
-  -(https://github.com/BoxToc)   
- 
